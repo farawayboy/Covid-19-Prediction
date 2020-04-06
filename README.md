@@ -1,4 +1,6 @@
 # Covid-19-Prediction
+# Python 3.6
+
 The objectvie of this project is to predict the cumulative Covid-19 confirmed cases in US by fitting a logistic function.
 
 Data source https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
